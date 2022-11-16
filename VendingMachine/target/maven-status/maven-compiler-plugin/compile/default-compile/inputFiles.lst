@@ -1,8 +1,8 @@
-/Users/lionwife/Documents/repos/m3-vending-machine-assessment-LionYingZhou/Vending Machine/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineDao.java
-/Users/lionwife/Documents/repos/m3-vending-machine-assessment-LionYingZhou/Vending Machine/VendingMachine/src/main/java/com/sg/vendingmachine/controller/VendingMachineController.java
-/Users/lionwife/Documents/repos/m3-vending-machine-assessment-LionYingZhou/Vending Machine/VendingMachine/src/main/java/com/sg/vendingmachine/dto/Product.java
-/Users/lionwife/Documents/repos/m3-vending-machine-assessment-LionYingZhou/Vending Machine/VendingMachine/src/main/java/com/sg/vendingmachine/ui/UserIO.java
-/Users/lionwife/Documents/repos/m3-vending-machine-assessment-LionYingZhou/Vending Machine/VendingMachine/src/main/java/com/sg/vendingmachine/ui/VendingMachineView.java
-/Users/lionwife/Documents/repos/m3-vending-machine-assessment-LionYingZhou/Vending Machine/VendingMachine/src/main/java/com/sg/vendingmachine/VendingMachine.java
-/Users/lionwife/Documents/repos/m3-vending-machine-assessment-LionYingZhou/Vending Machine/VendingMachine/src/main/java/com/sg/vendingmachine/dao/VendingMachineDaoFileImpl.java
-/Users/lionwife/Documents/repos/m3-vending-machine-assessment-LionYingZhou/Vending Machine/VendingMachine/src/main/java/com/sg/vendingmachine/ui/UserIOConsoleImpl.java
+C:\Users\15874\repos\Java2.0\m3-vending-machine-assessment-JiehuaMai\VendingMachine\src\main\java\vendingmachine\dao\VendingMachineDao.java
+C:\Users\15874\repos\Java2.0\m3-vending-machine-assessment-JiehuaMai\VendingMachine\src\main\java\vendingmachine\dto\Item.java
+C:\Users\15874\repos\Java2.0\m3-vending-machine-assessment-JiehuaMai\VendingMachine\src\main\java\vendingmachine\ui\UserIO.java
+C:\Users\15874\repos\Java2.0\m3-vending-machine-assessment-JiehuaMai\VendingMachine\src\main\java\vendingmachine\ui\VendingMachineView.java
+C:\Users\15874\repos\Java2.0\m3-vending-machine-assessment-JiehuaMai\VendingMachine\src\main\java\vendingmachine\ui\UserIOConsoleImpl.java
+C:\Users\15874\repos\Java2.0\m3-vending-machine-assessment-JiehuaMai\VendingMachine\src\main\java\vendingmashine\APP.java
+C:\Users\15874\repos\Java2.0\m3-vending-machine-assessment-JiehuaMai\VendingMachine\src\main\java\vendingmashine\contrllor\VendingMachineController.java
+C:\Users\15874\repos\Java2.0\m3-vending-machine-assessment-JiehuaMai\VendingMachine\src\main\java\vendingmachine\dao\VendingMachineDaoImpl.java
